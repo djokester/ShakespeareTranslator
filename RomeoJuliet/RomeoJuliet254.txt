@@ -1,0 +1,22 @@
+My poverty, but not my will, consents.I pay thy poverty and not thy will.
+(gives ROMEO
+                                poison) Put this in any liquid thing
+                                you willAnd drink it off; and, if you had the strengthOf twenty men, it would dispatch you straight.
+(gives APOTHECARY
+                                money)
+There is thy gold, worse poison to men’s souls,Doing more murder in this loathsome world,Than these poor compounds that thou mayst not sell.I sell thee poison. Thou hast sold me none.Farewell. Buy food, and get thyself in flesh.—Come, cordial and not poison, go with meTo Juliet’s grave, for there must I use thee.#LBSFORGOLDI agree because I’m poor, not because I want to.I pay you because you’re poor, not because you want me to
+                                buy this.
+(gives ROMEO
+                                poison) Put this in any kind of
+                                liquid you want and drink it down. Even if you were as strong as
+                                twenty men, it would kill you immediately.
+(gives APOTHECARY
+                                money) There is your gold. Money is a
+                                worse poison to men’s souls, and commits more murders in
+                                this awful world, than these poor poisons that you’re not
+                                allowed to sell. I’ve sold
+                                you poison. You haven’t sold
+                                me any. Goodbye. Buy yourself food, and put some flesh on your
+                                bones. I’ll take this mixture, which is a medicine, not a
+                                poison, to Juliet’s grave. That’s where I must use
+                                it.

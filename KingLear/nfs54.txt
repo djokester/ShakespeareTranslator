@@ -1,0 +1,22 @@
+
+(to KENT) I thank thee, fellow. Thou servest me, and I’ll love thee.
+(to OSWALD) Come, sir, arise, away! I’ll teach you
+differences. Away, away. If you will measure your lubber’s
+length again, tarry. But away, go to. Have you wisdom? So.
+Now, my friendly knave, I thank thee.
+(gives KENT money) There’s earnest of thy service.Let me hire him too.—Here’s my coxcomb.
+(offers KENT his cap)
+How now, my pretty knave? How dost thou?
+(to KENT) Sirrah, you were best take my coxcomb.Why, Fool?Why? For taking one’s part that’s out of favor. Nay, an thou
+canst not smile as the wind sits, thou'lt catch cold shortly.
+There, take my coxcomb. Why, this fellow has banished
+two on ’s daughters, and did the third a blessing against his
+will. If thou follow him, thou must needs wear my
+coxcomb.—How now, nuncle? Would I had two coxcombs
+and two daughters.
+#LBSFORGOLD
+(to KENT) Thank you, sir. You serve me well, and I’ll love you for it.
+(to OSWALD) Come on, sir, get up and get out of here! I’ll teach you to respect your betters. If you want me to trip you again, then stick around. If not, get going. Go on. Do you know what’s good for you? There you go.Now, my friendly servant, thank you.
+(giving KENT money) Here’s a token of my gratitude.Wait, let me hire him too.—Here’s my fool’s cap, a token of my gratitude. (he offers KENT his cap)
+Well hello, my good boy. How are you doing?
+(to KENT) Guy, you’d better take my cap.Why, Fool?Why? For standing up for this unpopular king. No, if you can’t adjust to political changes, you’ll suffer for it. There, take my fool’s cap. This guy here has banished two of his daughters and blessed the third one without intending to. If you work for him, you’re a fool and should wear a fool’s cap.—So how’s it going, uncle? I wish I had two fool’s caps and two daughters.
