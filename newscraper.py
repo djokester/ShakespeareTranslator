@@ -4,12 +4,12 @@ import pandas as pd
 import time
 
 count = 0
-path="/home/anubhav10/Desktop/lbs"
-total_pages=128
+path="/home/anubhav10/ShakespeareTranslator/RomeoJuliet"
+total_pages=260
 total_pages=int((total_pages/2))+1
 for i in range(1,total_pages):
     temp=2*i
-    url="http://nfs.sparknotes.com/errors/page_"+str(temp)+".html"
+    url="http://nfs.sparknotes.com/romeojuliet/page_"+str(temp)+".html"
     file_name=path+str(temp)+".txt"
     r  =  requests.get(url,headers={'User-Agent': 'Mozilla/5.0'})
     soup = BeautifulSoup(r.content,"lxml")
