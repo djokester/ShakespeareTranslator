@@ -1,0 +1,16 @@
+Upon my power I may dismiss this court,Unless Bellario, a learnèd doctor,Whom I have sent for to determine this,Come here today.   My lord, here stays withoutA messenger with letters from the doctor,New come from Padua.Bring us the letter. Call the messenger.Good cheer, Antonio! What, man, courage yet!The Jew shall have my flesh, blood, bones and all,Ere thou shalt lose for me one drop of blood.I am a tainted wether of the flock,Meetest for death. The weakest kind of fruitDrops earliest to the ground, and so let me.You cannot better be employed, Bassanio,Than to live still and write mine epitaph.Came you from Padua, from Bellario?From both, my lord. Bellario greets your grace.
+(gives DUKE
+       a letter)
+
+(to SHYLOCK) Why dost
+        thou whet thy knife so earnestly?#LBSFORGOLDI have the authority to dismiss this court, unless Bellario comes today. He’s
+        a legal expert I sent for to act as judge and help settle this matter.My lord, a messenger is waiting outside with letters from Bellario. He’s just
+        come from Padua.Bring us the letters. Call the messenger in.Cheer up, Antonio! Keep up your courage, man! I’ll give the Jew my flesh,
+        blood, bones, and everything before you lose one drop of blood for me.I’m like the one sick sheep in the flock, the one who deserves to die. The
+        weakest fruit drops to the ground first, so let me drop. Bassanio, the best thing you can do
+        is to keep living and write an epitaph for my gravestone.Have you come from Bellario’s office in Padua?Yes, my lord. Bellario sends his greetings.
+(she gives the DUKE
+        a letter)
+
+(to SHYLOCK) Why are you
+        sharpening your knife so eagerly?

@@ -1,0 +1,30 @@
+    No more yet of
+                                this,For ’tis a chronicle of day by day,Not a relation for a breakfast, norBefitting this first meeting.
+(to
+                                ALONSO)  Welcome,
+                                sir.This cell’s my court. Here have I few attendantsAnd subjects none abroad. Pray you, look in.My dukedom since you have given me again,I will requite you with as good a thing,At least bring forth a wonder to content yeAs much as me my dukedom.
+(to
+                                FERDINAND) Sweet lord, you play me
+                                false.No, my dearest love,I would not for the world.Yes, for a score of kingdoms you should wrangle,And I would call it fair play.     If
+                                this proveA vision of the Island, one dear sonShall I twice lose.   A most high miracle!
+(seeing ALONSO
+                                and kneeling)
+Though the seas threaten, they are merciful.I have cursed them without cause.#LBSFORGOLD
+(to
+                                ALONSO) Welcome, sir. This
+                                room’s my royal court. I have hardly any servants and no
+                                subjects outside this room. Please, have a look. Since
+                                you’ve given my dukedom back to me, I’ll give
+                                you something equally nice, or at least I’ll give you an
+                                amazement to satisfy you as much as my dukedom satisfies me.
+(to
+                                FERDINAND) My sweet lord,
+                                you’re cheating.No, my dearest love, I wouldn’t cheat you for the whole
+                                world.Maybe not the whole world, but you’d cheat for twenty
+                                kingdoms. But even then I’d still lie and say you were
+                                playing by the rules.If this dream vision is typical of what this island conjures up,
+                                then I’ll lose my son twice.A wonderful miracle!
+(seeing ALONSO
+                                and kneeling) The seas may threaten
+                                us, but they show mercy sometimes too. I cursed them for no
+                            reason.
