@@ -1,0 +1,13 @@
+How now, Lorenzo?My clerk hath some good comforts too for you.Ay, and I’ll give them him without a fee.
+(gives LORENZO
+        a document)
+There do I give to you and Jessica,From the rich Jew, a special deed of gift,After his death of all he dies possessed of.Fair ladies, you drop manna in the wayOf starvèd people.    It is almost morning,And yet I am sure you are not satisfiedOf these events at full. Let us go in,And charge us there upon interr'gatories,And we will answer all things faithfully.Let it be so. The first interr'gatoryThat my Nerissa shall be sworn on isWhether till the next night she had rather stay,Or go to bed now, being two hours to day.But were the day come, I should wish it dark,That I were couching with the doctor’s clerk.Well, while I live I’ll fear no other thingSo sore as keeping safe Nerissa’s ring.#LBSFORGOLDHow are you, Lorenzo? My clerk has some comforting news for you, too.Yes, and I’ll give it to him for free.
+        (she gives LORENZO a document)
+        This is from the rich Jew, for you and Jessica. It’s a special testament. After he
+        dies, you’ll inherit everything he owns.Ladies, you’re dropping bread from the heavens to starving people.It’s almost morning, but I’m sure you’re not fully satisfied
+        about what happened. Let’s go inside and we’ll answer all your questions
+        truthfully.All right, then. My first question for Nerissa is whether she’d rather wait
+        till tomorrow night or go to bed now, since there are only two more hours till morning. When
+        the day comes, I’ll wish it were nighttime, so I could sleep with the legal
+        expert’s clerk. In any case, I won’t worry about anything for the rest of
+        my life more than keeping Nerissa’s ring safe.
